@@ -7,3 +7,5 @@ REM  -e "NODE_ENV=PROD" \
   -w "/home/node/app" \
   --name "nodetry" \
   node
+
+REM -30-
