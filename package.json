@@ -8,6 +8,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.15.1"
+    "express": "^4.15.1",
+    "mongodb": "^3.5.9"
   }
 }
